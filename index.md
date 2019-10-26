@@ -1,25 +1,16 @@
-## Meeting schedule
+* Malesios C., Demiris N. Kalogeropoulos K., and I. Ntzoufras. (2017) Bayesian spatio-temporal epidemic models with applications to sheep pox. *Statistics in Medicine* 36(20): 3216-3230. Draft available [here](http://arxiv.org/abs/1403.1783)
 
-### Michaelmans Term
+* Dureau J., Kalogeropoulos K., Vickerman P., Pickles M., Boily M.C. (2016) A Bayesian approach to estimate changes in condom use from limited HIV prevalence data. *Journal of Royal Statistical Society, Series C (Applied Statistics)* 65(2) 237-257. Draft available [here](http://arxiv.org/abs/1211.5472)
 
-The reading group sessions take place every second **Monday, 13:00-14:00**, Leverhulme library, Department of Statistics, 6th Floor, Columbia House. **Lunch** will be available from **12:30**.
+* Beskos A, Dureau J. and Kalogeropoulos K. (2015) Bayesian Inference for partially observed SDEs Driven by Fractional Brownian Motion. Biometrika,102 (4): 809-827. Draft available at http://arxiv.org/abs/1307.0238
 
-| # | Date                      | Topic                                                             | Discussion lead |
-|---|---------------------------|-------------------------------------------------------------------|-----------------|
-| 1 | 14th Oct, 2019         |  [A Theoretical Analysis of Deep Q-Learning](https://arxiv.org/abs/1901.00137), Yang, Xie and Wang, 2019 | Chengchun Shi    |
-| 2 | 28th Oct, 2019        |  [Kernel and Mean Embedding of Distributions: A Review and Beyond](https://arxiv.org/abs/1605.09522), Muandet, Fukumizu, Sriperumbudur and Schölkopf, 2017                                                         | Wicher Bergsma |
-| 3 |  11th Nov, 2019    |  [Learning Generative Models with Sinkhorn Divergences](https://arxiv.org/abs/1706.00292), Genevay, Peyré and Cuturi                     |  Bea Acciaio    |
-| 4 | 25th Nov, 2019       |  TBA    |         |
-| 5 | 9th Dec, 2019       |  TBA     |        |
+* Dureau, J. Kalogeropoulos, K, and Baguelin, M. (2013) Capturing the time varying drivers of an epidemic using stochastic dynamical systems.  Biostatistics . 14(3):541-555. Draft available at http://arxiv.org/abs/1203.5950
 
-### Lent Term
+* Beskos, A., Kalogeropoulos, K., and Pazos, E. (2013) Advanced Markov Chain Monte Carlo methods for sampling on diffusion pathspace. Stochastic Processes and their Applications. 123 (4) 1415-1453. http://eprints.lse.ac.uk/46433/
 
-The reading group sessions take place every second **Thursday, 13:00-14:00**, Leverhulme library, Department of Statistics, 6th Floor, Columbia House. **Lunch** will be available from **12:30**.
+* Kalogeropoulos K., Dellaportas P. and Roberts G.O. (2011). Likelihood based inference for
+correlated diffusions. Canadian Journal of Statistics, 39(1): 52-72. http://eprints.lse.ac.uk/31354/
 
-| # | Date                      | Topic                                                             | Discussion lead |
-|---|---------------------------|-------------------------------------------------------------------|-----------------|
-| 1 | 14th Oct, 2019         | TBA  |   |
-| 2 | 28th Oct, 2019        |  TBA |  |
-| 3 |  11th Nov, 2019    | TBA  |     |
-| 4 | 25th Nov, 2019       |  TBA  |         |
-| 5 | 9th Dec, 2019       |  TBA     |        |
+* Kalogeropoulos K., Roberts G.O. and Dellaportas P. (2010). Inference for stochastic volatility models using time change transformations. Annals of Statistics, 38(2) 784:807. http://eprints.lse.ac.uk/31421/
+
+* Kalogeropoulos K. (2007). Likelihood-Based inference for a class of multivariate diffusions with unobserved paths.  Journal of Statistical Planning and Inference, 137:3092-3102. http://eprints.lse.ac.uk/31423/
