@@ -13,4 +13,17 @@ correlated diffusions. *Canadian Journal of Statistics*, 39(1): 52-72. Draft ava
 
 * Kalogeropoulos K., Roberts G.O. and Dellaportas P. (2010). Inference for stochastic volatility models using time change transformations. *Annals of Statistics*, 38(2) 784:807. Draft available [here](http://eprints.lse.ac.uk/31421/)
 
+* Kalogeropoulos K. and Papaspiliopoulos O. (2008). Discussion on Goubar et al (2008) Journal of Royal Statistical Society Series A 171(3):1-27).
+
+* Kalogeropoulos K., Demiris N. and Papaspiliopoulos O. (2008). Diffusion-driven models for
+physiological processes. International Workshop on Applied Probability (IWAP) 2008.
+
+* Kalogeropoulos K. (2006). Discussion on Beskos et al (2006) Journal of Royal Statistical
+Society Series B 68(3):333-382).
+
+* Kalogeropoulos K., Roberts G.O. and Dellaportas P. (2006). Irreducible MCMC schemes
+for diffusion driven stochastic volatility models. Nonlinear Statistical Signal Processing
+Workshop (NSSPW) 2006.
+
 * Kalogeropoulos K. (2007). Likelihood-Based inference for a class of multivariate diffusions with unobserved paths.  *Journal of Statistical Planning and Inference*, 137:3092-3102. Draft available [here](http://eprints.lse.ac.uk/31423/)
+
