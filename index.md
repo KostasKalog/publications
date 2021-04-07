@@ -1,4 +1,4 @@
-* Vamvourellis K., Kalogeropoulos K., and Moustaki I. (2021) Generalised Bayesian Structural Equation Modelling. Draft available [here](https://arxiv.org/abs/2104.01603)
+* Vamvourellis K., Kalogeropoulos K., and Moustaki I. (2021) Generalised Bayesian structural equation modelling. Draft available [here](https://arxiv.org/abs/2104.01603)
 
 * Malesios C., Demiris N. Kalogeropoulos K., and I. Ntzoufras. (2017) Bayesian spatio-temporal epidemic models with applications to sheep pox. *Statistics in Medicine* 36(20): 3216-3230. Draft available [here](http://arxiv.org/abs/1403.1783)
 
