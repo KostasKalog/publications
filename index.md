@@ -1,6 +1,6 @@
 * Dubiel-Teleszynski T. Kalogeropoulos K. and Karouzakis N. (2023) Sequential Learning and Economic Benefits from Dynamic Term Structure Models. *Management Science*. Published Online. Draft available [here](https://arxiv.org/abs/2204.10658).
 
-* Vamvourellis K., Kalogeropoulos K., and Moustaki I. (2023) Generalised Bayesian structural equation modelling. *British Journal of Mathe- matical and Statistical Psychology*. 76(3) 559-584. Draft available [here](https://arxiv.org/abs/2104.01603).
+* Vamvourellis K., Kalogeropoulos K., and Moustaki I. (2023) Generalised Bayesian structural equation modelling. *British Journal of Mathematical and Statistical Psychology*. 76(3) 559-584. Draft available [here](https://arxiv.org/abs/2104.01603).
 
 * Malesios C., Demiris N. Kalogeropoulos K., and I. Ntzoufras. (2017) Bayesian spatio-temporal epidemic models with applications to sheep pox. *Statistics in Medicine* 36(20): 3216-3230. Draft available [here](http://arxiv.org/abs/1403.1783).
 
